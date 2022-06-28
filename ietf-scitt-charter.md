@@ -41,7 +41,7 @@ Program of Work
 The working group will develop standards supporting interoperable supply chain building blocks.
 The main deliverables are as follows:
 
-1. The WG will select (and potentially profile or augment) acceptable common identity format/formats that shall be used in the SCITT eco-system. This will enable inter-operability across geographical regions and also tracing the identity chain in a seamless manner when a product is comprised of mutliple sub-products coming from multiple issuers. This includes a model of essential actors, such as the supply chain "issuer" (one which generates supply chain artefacts), and their duties in the ecosystem.
+1. The WG will select (and potentially profile or augment) acceptable common identity format/formats that shall be used in the SCITT eco-system. This will enable inter-operability across geographical regions and also tracing the identity chain in a seamless manner when a product is comprised of multiple sub-products coming from multiple issuers. This includes a model of essential actors, such as the supply chain "issuer" (one which generates supply chain artifacts), and their duties in the ecosystem.
 
 2. The WG will define envelope and common schema for carrying supply chain claims/endorsements.
 
